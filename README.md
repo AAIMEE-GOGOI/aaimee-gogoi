@@ -1,4 +1,4 @@
-aitu paste kora-
+
 <h1 align="center">Hi 👋, I'm AAIMEE GOGOI</h1>
 <h3 align="center">A passionate developer from India 🚀</h3>
 
@@ -59,8 +59,8 @@ aitu paste kora-
 ### 🔗 Let's Connect!
 
 - 🌐 [GitHub](https://github.com/AAIMEE-GOGOI)
-- 💼 [LinkedIn (optional)](https://www.linkedin.com/)  
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn:(https://www.linkedin.com/in/aaimee-gogoi-075445322/?trk=opento_sprofile_details)  
+- 📬 Email: aaimeegogoi8@gmail.com
 
 ---
 
