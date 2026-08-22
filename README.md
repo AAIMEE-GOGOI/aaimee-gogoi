@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Student | Data Science & AI Learner
   <br>
-  🏫 Indian Institue Of Technology,Guwahati
+  🏫 Indian Institute Of Technology,Guwahati
 </p>
 
 <p align="center">
