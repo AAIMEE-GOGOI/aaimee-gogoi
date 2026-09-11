@@ -33,45 +33,57 @@
 
 # 🧠 SKILL TREE
 
-### 🐍 Python & Data Science
+### 🐍 PYTHON & DATA SCIENCE
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,scipy,matplotlib,seaborn,plotly&perline=7" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning
+
+### 🤖 MACHINE LEARNING
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=scikitlearn&perline=1" />
-</p>
-
-<p align="center">
-<b>ML Concepts</b><br>
-Regression • Classification • KNN • Naive Bayes • SVM • PCA<br>
-Recommendation Systems • MLE / MAP
-</p>
-
-### 📐 Mathematical Foundations
-
-<p align="center">
-🧮 Linear Algebra &nbsp; • &nbsp;
-🎲 Probability &nbsp; • &nbsp;
-📊 Statistics &nbsp; • &nbsp;
-📈 Calculus &nbsp; • &nbsp;
-⚙️ Optimization
-</p>
-
-### 🗄️ Data & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,jupyter,git,github,vscode,streamlit&perline=6" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 <p align="center">
-☁️ Google Colab
+  <b>ML CONCEPTS</b><br>
+  Regression • Classification • KNN • Naive Bayes • SVM • PCA<br>
+  Recommendation Systems • MLE / MAP
 </p>
 
----
+
+### 📐 MATHEMATICAL FOUNDATION
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linear%20Algebra-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Probability-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Calculus-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optimization-9C27B0?style=for-the-badge"/>
+</p>
+
+
+### 🗄️ DATA & TOOLS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
 # 🚀 PROJECT LEVELS
 
