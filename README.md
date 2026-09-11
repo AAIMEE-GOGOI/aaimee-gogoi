@@ -1,18 +1,21 @@
-<div align="center">
-
 # 👋 Hi, I'm Aaimee Gogoi
 
-### 🎮 `PLAYER 01` • DATA SCIENCE & AI
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning;Python+%7C+Data+Analysis;Turning+Data+into+Insights;Learning+%E2%86%92+Building+%E2%86%92+Growing">
+🎮 <b>PLAYER 01 • DATA SCIENCE & AI</b>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Learning+%7C+Building+%7C+Improving" />
+
+</p>
 
 ---
 
 # 🎮 PLAYER PROFILE
 
-```text
 ```text
 ╔══════════════════════════════════════════════╗
 ║                  PLAYER 01                   ║
@@ -29,61 +32,67 @@
 ║                                              ║
 ║               ⚒️ LEVELING UP...              ║
 ╚══════════════════════════════════════════════╝
+```
+
 ---
 
 # 🧠 SKILL TREE
 
 ### 🐍 PYTHON & DATA SCIENCE
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scipy,matplotlib,seaborn,plotly&perline=7" />
 
-</div>
+</p>
 
 ---
 
 ### 🤖 MACHINE LEARNING
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=scikitlearn,python,numpy,pandas,scipy&perline=5" />
 
-</div>
+</p>
 
 **🧠 ML Concepts**
 
-`Regression` • `Classification` • `KNN` • `Naive Bayes`  
+`Regression` • `Classification` • `KNN` • `Naive Bayes`
+
 `SVM` • `PCA` • `Recommendation Systems` • `MLE / MAP`
 
 ---
 
 ### 📐 MATHEMATICAL FOUNDATION
 
-<div align="center">
+<p align="center">
 
 🧮 **Linear Algebra** &nbsp; • &nbsp; 🎲 **Probability** &nbsp; • &nbsp; 📊 **Statistics**
 
 📈 **Calculus** &nbsp; • &nbsp; ⚙️ **Optimization**
 
-</div>
+</p>
 
 ---
 
 ### 🗄️ DATA & DEVELOPMENT TOOLS
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,github,vscode,streamlit&perline=6" />
 
-</div>
+</p>
 
-**Also using:**  
-`Google Colab` • `SQL`
+<p align="center">
+
+`SQL` • `Google Colab` • `Jupyter Notebook`
+
+</p>
 
 ---
 
-### 🎯 CURRENT FOCUS
+# 🌱 CURRENT QUEST
 
 ```text
 🐍 Python
@@ -97,19 +106,20 @@
 
 🧠 AI
 ███████░░░░░░░░░░░░░  35%
-### 🛠️ Project Tools
+```
 
-<p align="center">
+🎯 Currently focusing on:
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+- Strengthening Python
+- Data Analysis
+- Machine Learning
+- Statistics & Probability
+- Building practical projects
+- Creating a strong Data Science portfolio
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-</p>
+---
 
 # 🚀 PROJECT LEVELS
-
-<div align="center">
 
 | 🎮 LEVEL | PROJECT | TYPE |
 |:---:|:---|:---:|
@@ -118,118 +128,133 @@
 | 💄 03 | **Nykaa Product Success Predictor** | 🤖 Machine Learning |
 | 🎵 04 | **Spotify Artist Analysis** | 📊 Data Analysis |
 
-</div>
+---
+
+## 🏅 LEVEL 01 — OLYMPIC DATA ANALYSIS
+
+📊 **Type:** Data Analysis
+
+Exploring Olympic athlete and medal data to discover patterns, trends and insights using Python and data visualization.
+
+**🛠️ Tools**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Olympic-Data-Analysis)
 
 ---
 
-## 🏅 LEVEL 01 — Olympic Data Analysis
+## 🎬 LEVEL 02 — MOVIE RECOMMENDATION SYSTEM
 
-📊 **Data Analysis**
+🤖 **Type:** Machine Learning
 
-Exploring Olympic data to find patterns and insights about
-athletes, sports and medal performances.
+A recommendation system designed to suggest movies based on available movie information and similarity between items.
 
-**Tools:** Python • Pandas • NumPy • Matplotlib • Plotly
+**🛠️ Tools**
 
-🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Olympic-Data-Analysis)**
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
+🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/BingeFlix)
 
-## 🎬 LEVEL 02 — Movie Recommendation System
-
-🤖 **Machine Learning**
-
-A recommendation system project exploring movie similarity
-and generating relevant movie recommendations.
-
-**Tools:** Python • Pandas • NumPy • Scikit-learn
-
-🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/BingeFlix)**
-
-
-## 💄 LEVEL 03 — Nykaa Product Success Predictor
-
-🤖 **Machine Learning**
-
-A predictive ML project exploring product-related data
-and factors associated with product success.
-
-**Tools:** Python • Pandas • Seaborn • Scikit-learn
-
-🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Nykaa-Products-Success-Prediction)**
-
-
-## 🎵 LEVEL 04 — Spotify Artist Analysis
-
-📊 **Data Analysis**
-
-Analyzing Spotify artist and music data to discover
-patterns and trends.
-
-**Tools:** Python • Pandas • Matplotlib • Seaborn
-
-🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Spotify-Artist-Analysis)**
-
-╔══════════════════════════════════════════════╗
-║              🏆 ACHIEVEMENTS                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🏅 Data Literacy                            ║
-║  🐍 Python for Data Science                  ║
-║  🤖 Machine Learning with Python             ║
-║  🧠 Machine Learning                         ║
-║  ✨ Generative AI                            ║
-║                                              ║
-║             ALL ACHIEVEMENTS                 ║
-║                UNLOCKED!                     ║
-╚══════════════════════════════════════════════╝
-
-🐍 Python
-████████████████░░░░  80%
-
-📊 Data Analysis
-██████████████░░░░░░  70%
-
-📈 Data Visualization
-██████████████░░░░░░  70%
-
-🗄️ SQL
-███████████░░░░░░░░░  55%
-
-🤖 Machine Learning
-████████████░░░░░░░░  60%
-
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        🔒 NEXT LEVEL: DATA SCIENTIST         ║
-║                                              ║
-║   → Build more real-world projects           ║
-║   → Strengthen Machine Learning              ║
-║   → Work with larger datasets                ║
-║   → Improve SQL & Data Analysis              ║
-║   → Prepare for Data/ML internships          ║
-║                                              ║
-║          KEEP LEARNING 🌱                    ║
-║          KEEP BUILDING 🚀                    ║
-╚══════════════════════════════════════════════╝
-<div align="center">
-<a href="https://www.linkedin.com/in/aaimee-gogoi-075445322/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/ime_meee_ime?stkn=Y3FzeXk5dGJvcmlh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="aaimeegogoi8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 ---
 
-<div align="center">
+## 💄 LEVEL 03 — NYKAA PRODUCT SUCCESS PREDICTOR
+
+🤖 **Type:** Machine Learning
+
+A beginner machine learning project exploring product-related features to predict the potential success of beauty products.
+
+**🛠️ Tools**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Nykaa-Products-Success-Prediction)
+
+---
+
+## 🎵 LEVEL 04 — SPOTIFY ARTIST ANALYSIS
+
+📊 **Type:** Data Analysis
+
+Analyzing Spotify artist and music data to explore trends, popularity and artist-level patterns.
+
+**🛠️ Tools**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Spotify-Artist-Analysis)
+
+---
+
+# 🏆 CERTIFICATIONS
+
+🎓 **Dr. Banikanta Kakati Award**
+
+Higher Secondary academic achievement under the **Pragyan Bharati Scheme, Government of Assam**.
+
+💃 **Dance — NSQF Level 3**
+
+**Grade: A-**
+
+---
+
+# 📚 LEARNING PROGRESS
+
+```text
+╔════════════════════════════════════════════╗
+║              PLAYER PROGRESS              ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║ 🐍 Python              ██████████░░  65%   ║
+║ 📊 Data Analysis       █████████░░░  60%   ║
+║ 🤖 Machine Learning    ████████░░░░  55%   ║
+║ 🗄️ SQL                 ███████░░░░░  50%   ║
+║ 📐 Mathematics         █████████░░░  60%   ║
+║ 🧠 AI                  █████░░░░░░░  35%   ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+# 🔮 NEXT LEVEL
+
+```text
+🎯 NEXT MISSIONS
+
+[ ] Advanced Python
+[ ] Advanced SQL
+[ ] More Machine Learning Projects
+[ ] Improve Statistics
+[ ] Learn Model Deployment
+[ ] Build Real-World Data Science Projects
+[ ] Prepare for Data Science Internship
+```
+
+---
+
+# 💌 PLAYER CONTACT
+
+<p align="center">
+
+<a href="www.linkedin.com/in/aaimee-gogoi-075445322">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+
+
+<p align="center">
+
+📧 <b>Let's connect, collaborate and build something meaningful with data.</b>
+
+</p>
+
+---
+
+<p align="center">
 
 🎮 **THANK YOU FOR PLAYING!**
 
-✨ *You reached the end of my profile.*
+<i>See you in the next level... 🚀</i>
 
-**GAME STATUS: ONLINE** 🟢
-
-</div>
+</p>
