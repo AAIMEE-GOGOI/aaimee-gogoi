@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Aaimee Gogoi
+<h1 align="center">Hi 👋, I'm Aaimee Gogoi</h1>
 
 <p align="center">
-
-🎮 <b>PLAYER 01 • DATA SCIENCE & AI</b>
-
+  🎓 B.Sc. Data Science & Artificial Intelligence • IIT Guwahati
 </p>
 
 <p align="center">
+  📊 Data Science • 🤖 Machine Learning • 🧠 AI
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Learning+%7C+Building+%7C+Improving" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+Enthusiast;Learning+%7C+Building+%7C+Improving" />
 </p>
 
 ---
 
-# 🎮 PLAYER PROFILE
+## 🎮 PLAYER PROFILE
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -25,11 +25,6 @@
 ║ 💼 ROLE        : Data Science Student        ║
 ║ 🎯 SPECIALTY   : Data • ML • AI              ║
 ║                                              ║
-║ 📊 DATA        : ███████████░░░░  75%        ║
-║ 🐍 PYTHON      : ██████████░░░░░  65%        ║
-║ 🤖 ML          : ████████░░░░░░░  55%        ║
-║ 🗄️ SQL         : ███████░░░░░░░░  50%        ║
-║                                              ║
 ║               ⚒️ LEVELING UP...              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -38,202 +33,172 @@
 
 # 🧠 SKILL TREE
 
-### 🐍 PYTHON & DATA SCIENCE
+### 🐍 Python & Data Science
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scipy,matplotlib,seaborn,plotly&perline=7" />
-
 </p>
 
----
-
-### 🤖 MACHINE LEARNING
+### 🤖 Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=scikitlearn,python,numpy,pandas,scipy&perline=5" />
-
+<img src="https://skillicons.dev/icons?i=scikitlearn&perline=1" />
 </p>
 
-**🧠 ML Concepts**
-
-`Regression` • `Classification` • `KNN` • `Naive Bayes`
-
-`SVM` • `PCA` • `Recommendation Systems` • `MLE / MAP`
-
----
-
-### 📐 MATHEMATICAL FOUNDATION
-
 <p align="center">
-
-🧮 **Linear Algebra** &nbsp; • &nbsp; 🎲 **Probability** &nbsp; • &nbsp; 📊 **Statistics**
-
-📈 **Calculus** &nbsp; • &nbsp; ⚙️ **Optimization**
-
+<b>ML Concepts</b><br>
+Regression • Classification • KNN • Naive Bayes • SVM • PCA<br>
+Recommendation Systems • MLE / MAP
 </p>
 
----
-
-### 🗄️ DATA & DEVELOPMENT TOOLS
+### 📐 Mathematical Foundations
 
 <p align="center">
+🧮 Linear Algebra &nbsp; • &nbsp;
+🎲 Probability &nbsp; • &nbsp;
+📊 Statistics &nbsp; • &nbsp;
+📈 Calculus &nbsp; • &nbsp;
+⚙️ Optimization
+</p>
 
+### 🗄️ Data & Tools
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,github,vscode,streamlit&perline=6" />
-
 </p>
 
 <p align="center">
-
-`SQL` • `Google Colab` • `Jupyter Notebook`
-
+☁️ Google Colab
 </p>
-
----
-
-# 🌱 CURRENT QUEST
-
-```text
-🐍 Python
-████████████████░░░░  80%
-
-📊 Data Science
-██████████████░░░░░░  70%
-
-🤖 Machine Learning
-███████████░░░░░░░░░  55%
-
-🧠 AI
-███████░░░░░░░░░░░░░  35%
-```
-
-🎯 Currently focusing on:
-
-- Strengthening Python
-- Data Analysis
-- Machine Learning
-- Statistics & Probability
-- Building practical projects
-- Creating a strong Data Science portfolio
 
 ---
 
 # 🚀 PROJECT LEVELS
 
-| 🎮 LEVEL | PROJECT | TYPE |
-|:---:|:---|:---:|
-| 🏅 01 | **Olympic Data Analysis** | 📊 Data Analysis |
-| 🎬 02 | **Movie Recommendation System** | 🤖 Machine Learning |
-| 💄 03 | **Nykaa Product Success Predictor** | 🤖 Machine Learning |
-| 🎵 04 | **Spotify Artist Analysis** | 📊 Data Analysis |
+### 🏅 LEVEL 01 — Olympic Data Analysis
 
----
+📊 **Data Analysis**
 
-## 🏅 LEVEL 01 — OLYMPIC DATA ANALYSIS
+Exploring Olympic athlete and medal data to uncover patterns, trends and insights through data analysis and visualization.
 
-📊 **Type:** Data Analysis
-
-Exploring Olympic athlete and medal data to discover patterns, trends and insights using Python and data visualization.
-
-**🛠️ Tools**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly
 
 🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Olympic-Data-Analysis)
 
 ---
 
-## 🎬 LEVEL 02 — MOVIE RECOMMENDATION SYSTEM
+### 🎬 LEVEL 02 — Movie Recommendation System
 
-🤖 **Type:** Machine Learning
+🤖 **Machine Learning**
 
-A recommendation system designed to suggest movies based on available movie information and similarity between items.
+A recommendation system that explores movie data and similarity to generate relevant movie recommendations.
 
-**🛠️ Tools**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
+**Tools:** Python • Pandas • NumPy • Scikit-learn
 
 🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/BingeFlix)
 
 ---
 
-## 💄 LEVEL 03 — NYKAA PRODUCT SUCCESS PREDICTOR
+### 💄 LEVEL 03 — Nykaa Product Success Predictor
 
-🤖 **Type:** Machine Learning
+🤖 **Machine Learning**
 
-A beginner machine learning project exploring product-related features to predict the potential success of beauty products.
+A machine learning project exploring product-related features to predict potential beauty-product success.
 
-**🛠️ Tools**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+**Tools:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
 🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Nykaa-Products-Success-Prediction)
 
 ---
 
-## 🎵 LEVEL 04 — SPOTIFY ARTIST ANALYSIS
+### 🎵 LEVEL 04 — Spotify Artist Analysis
 
-📊 **Type:** Data Analysis
+📊 **Data Analysis**
 
-Analyzing Spotify artist and music data to explore trends, popularity and artist-level patterns.
+Analyzing Spotify artist and music data to explore popularity, trends and artist-level patterns.
 
-**🛠️ Tools**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly
 
 🔗 [VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Spotify-Artist-Analysis)
 
 ---
 
-# 🏆 CERTIFICATIONS
+# 🏅 PERSONAL ACHIEVEMENTS
 
-🎓 **Dr. Banikanta Kakati Award**
+### 🏆 Dr. Banikanta Kakati Award
 
-Higher Secondary academic achievement under the **Pragyan Bharati Scheme, Government of Assam**.
+Higher Secondary academic achievement awarded under the **Pragyan Bharati Scheme, Government of Assam**.
 
-💃 **Dance — NSQF Level 3**
+📄 [VIEW ACHIEVEMENT →](Dr-Banikanta-Kakati-Award-Assam-Gov.pdf)
+
+### 💃 Dance — NSQF Level 3
 
 **Grade: A-**
 
+📄 [VIEW CERTIFICATE →](Dance_NSQF_Level_3_Certificate.pdf)
+
 ---
 
-# 📚 LEARNING PROGRESS
+# 📜 CERTIFICATIONS
+
+### 🧠 Cognitive AI
+
+- **Machine Learning with Python**
+- **Data Science with Python**
+
+📄 [VIEW CERTIFICATES →](Machine_Learning_with_python.pdf)
+📄 [VIEW CERTIFICATES →](Python_For_Data_Science.pdf)
+
+
+### 🎓 IIT Guwahati × Coursera
+
+- **Machine Learning**
+
+📄 [VIEW CERTIFICATE →](Machine_Learning_Certificate.pdf)
+
+### 🔵 Google
+
+- **Generative AI**
+
+📄 [VIEW CERTIFICATE →](Generative_AI_Certificate.pdf)
+
+### 🟣 IBM
+
+- **Data Literacy**
+
+📄 [VIEW CERTIFICATE →](Data_Literacy_Certificate.pdf)
+
+---
+
+# 🌱 CURRENTLY LEARNING
 
 ```text
-╔════════════════════════════════════════════╗
-║              PLAYER PROGRESS              ║
-╠════════════════════════════════════════════╣
-║                                            ║
-║ 🐍 Python              ██████████░░  65%   ║
-║ 📊 Data Analysis       █████████░░░  60%   ║
-║ 🤖 Machine Learning    ████████░░░░  55%   ║
-║ 🗄️ SQL                 ███████░░░░░  50%   ║
-║ 📐 Mathematics         █████████░░░  60%   ║
-║ 🧠 AI                  █████░░░░░░░  35%   ║
-║                                            ║
-╚════════════════════════════════════════════╝
+🐍 Python
+📊 Data Analysis
+🤖 Machine Learning
+🗄️ SQL
+📐 Statistics & Probability
+🧠 Artificial Intelligence
 ```
+
+Currently focusing on strengthening my practical skills and building more real-world Data Science projects.
 
 ---
 
 # 🔮 NEXT LEVEL
 
 ```text
-🎯 NEXT MISSIONS
-
 [ ] Advanced Python
 [ ] Advanced SQL
 [ ] More Machine Learning Projects
-[ ] Improve Statistics
-[ ] Learn Model Deployment
-[ ] Build Real-World Data Science Projects
-[ ] Prepare for Data Science Internship
+[ ] Stronger Statistics
+[ ] Model Deployment
+[ ] Data Science Internship
 ```
 
 ---
 
-# 💌 PLAYER CONTACT
+# 💌 CONNECT WITH ME
 
 <p align="center">
 
@@ -241,11 +206,9 @@ Higher Secondary academic achievement under the **Pragyan Bharati Scheme, Govern
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
 
-
-<p align="center">
-
-📧 <b>Let's connect, collaborate and build something meaningful with data.</b>
+📧 <b>aaimeegogoi8@gmail.com</b>
 
 </p>
 
@@ -253,8 +216,10 @@ Higher Secondary academic achievement under the **Pragyan Bharati Scheme, Govern
 
 <p align="center">
 
-🎮 **THANK YOU FOR PLAYING!**
+🎮 <b>THANK YOU FOR VISITING!</b>
 
-<i>See you in the next level... 🚀</i>
+<br>
+
+<i>Learning • Building • Improving 🚀</i>
 
 </p>
