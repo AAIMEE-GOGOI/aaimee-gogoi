@@ -1,86 +1,235 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm AAIMEE GOGOI</h1>
-<h3 align="center">A passionate learner of data analysing from India 🚀</h3>
-<p align="center">
-  🎓 Student | Data Science & AI Learner
-  <br>
-  🏫 Indian Institute Of Technology,Guwahati
-</p>
+# 👋 Hi, I'm Aaimee Gogoi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+about+coding+💻;Lifelong+learner+📘;Open+Source+Enthusiast+🌐" alt="Typing SVG" />
-</p>
+### 🎮 `PLAYER 01` • DATA SCIENCE & AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning;Python+%7C+Data+Analysis;Turning+Data+into+Insights;Learning+%E2%86%92+Building+%E2%86%92+Growing">
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools:
-### 🛠️ Languages & Tools I'm Learning
+# 🎮 PLAYER PROFILE
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" title="Matplotlib"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" title="Streamlit"/>
-</p>
+```text
+```text
+╔══════════════════════════════════════════════╗
+║                  PLAYER 01                   ║
+╠══════════════════════════════════════════════╣
+║ 👤 NAME        : Aaimee Gogoi                ║
+║ 🎓 INSTITUTION : IIT Guwahati                ║
+║ 💼 ROLE        : Data Science Student        ║
+║ 🎯 SPECIALTY   : Data • ML • AI              ║
+║                                              ║
+║ 📊 DATA        : ███████████░░░░  75%        ║
+║ 🐍 PYTHON      : ██████████░░░░░  65%        ║
+║ 🤖 ML          : ████████░░░░░░░  55%        ║
+║ 🗄️ SQL         : ███████░░░░░░░░  50%        ║
+║                                              ║
+║               ⚒️ LEVELING UP...              ║
+╚══════════════════════════════════════════════╝
+---
 
-<p align="center">
-  📐 <b>Linear Algebra</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  📊 <b>Statistics</b>
-</p>
+# 🧠 SKILL TREE
 
-<p align="center">
-  🌱 <i>Currently learning and improving my skills in Python, Data Analysis & Machine Learning.</i>
-</p>
+### 🐍 PYTHON & DATA SCIENCE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,scipy,matplotlib,seaborn,plotly&perline=7" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🤖 MACHINE LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=scikitlearn,python,numpy,pandas,scipy&perline=5" />
+
+</div>
+
+**🧠 ML Concepts**
+
+`Regression` • `Classification` • `KNN` • `Naive Bayes`  
+`SVM` • `PCA` • `Recommendation Systems` • `MLE / MAP`
+
+---
+
+### 📐 MATHEMATICAL FOUNDATION
+
+<div align="center">
+
+🧮 **Linear Algebra** &nbsp; • &nbsp; 🎲 **Probability** &nbsp; • &nbsp; 📊 **Statistics**
+
+📈 **Calculus** &nbsp; • &nbsp; ⚙️ **Optimization**
+
+</div>
+
+---
+
+### 🗄️ DATA & DEVELOPMENT TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,jupyter,git,github,vscode,streamlit&perline=6" />
+
+</div>
+
+**Also using:**  
+`Google Colab` • `SQL`
+
+---
+
+### 🎯 CURRENT FOCUS
+
+```text
+🐍 Python
+████████████████░░░░  80%
+
+📊 Data Science
+██████████████░░░░░░  70%
+
+🤖 Machine Learning
+███████████░░░░░░░░░  55%
+
+🧠 AI
+███████░░░░░░░░░░░░░  35%
+### 🛠️ Project Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AAIMEE-GOGOI&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="github trophies" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
 </p>
 
----
+# 🚀 PROJECT LEVELS
 
-### 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAIMEE-GOGOI&show_icons=true&theme=tokyonight" alt="aimee stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAIMEE-GOGOI&layout=compact&theme=tokyonight" alt="top langs"/>
-</p>
+| 🎮 LEVEL | PROJECT | TYPE |
+|:---:|:---|:---:|
+| 🏅 01 | **Olympic Data Analysis** | 📊 Data Analysis |
+| 🎬 02 | **Movie Recommendation System** | 🤖 Machine Learning |
+| 💄 03 | **Nykaa Product Success Predictor** | 🤖 Machine Learning |
+| 🎵 04 | **Spotify Artist Analysis** | 📊 Data Analysis |
 
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAIMEE-GOGOI&theme=tokyo-night&area=true" alt="contribution graph" />
-</p>
+</div>
 
 ---
 
-### 👀 Visitors Count
+## 🏅 LEVEL 01 — Olympic Data Analysis
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AAIMEE-GOGOI&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+📊 **Data Analysis**
 
+Exploring Olympic data to find patterns and insights about
+athletes, sports and medal performances.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Plotly
+
+🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Olympic-Data-Analysis)**
+
+
+## 🎬 LEVEL 02 — Movie Recommendation System
+
+🤖 **Machine Learning**
+
+A recommendation system project exploring movie similarity
+and generating relevant movie recommendations.
+
+**Tools:** Python • Pandas • NumPy • Scikit-learn
+
+🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/BingeFlix)**
+
+
+## 💄 LEVEL 03 — Nykaa Product Success Predictor
+
+🤖 **Machine Learning**
+
+A predictive ML project exploring product-related data
+and factors associated with product success.
+
+**Tools:** Python • Pandas • Seaborn • Scikit-learn
+
+🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Nykaa-Products-Success-Prediction)**
+
+
+## 🎵 LEVEL 04 — Spotify Artist Analysis
+
+📊 **Data Analysis**
+
+Analyzing Spotify artist and music data to discover
+patterns and trends.
+
+**Tools:** Python • Pandas • Matplotlib • Seaborn
+
+🔗 **[VIEW PROJECT →](https://github.com/AAIMEE-GOGOI/Spotify-Artist-Analysis)**
+
+╔══════════════════════════════════════════════╗
+║              🏆 ACHIEVEMENTS                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🏅 Data Literacy                            ║
+║  🐍 Python for Data Science                  ║
+║  🤖 Machine Learning with Python             ║
+║  🧠 Machine Learning                         ║
+║  ✨ Generative AI                            ║
+║                                              ║
+║             ALL ACHIEVEMENTS                 ║
+║                UNLOCKED!                     ║
+╚══════════════════════════════════════════════╝
+
+🐍 Python
+████████████████░░░░  80%
+
+📊 Data Analysis
+██████████████░░░░░░  70%
+
+📈 Data Visualization
+██████████████░░░░░░  70%
+
+🗄️ SQL
+███████████░░░░░░░░░  55%
+
+🤖 Machine Learning
+████████████░░░░░░░░  60%
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        🔒 NEXT LEVEL: DATA SCIENTIST         ║
+║                                              ║
+║   → Build more real-world projects           ║
+║   → Strengthen Machine Learning              ║
+║   → Work with larger datasets                ║
+║   → Improve SQL & Data Analysis              ║
+║   → Prepare for Data/ML internships          ║
+║                                              ║
+║          KEEP LEARNING 🌱                    ║
+║          KEEP BUILDING 🚀                    ║
+╚══════════════════════════════════════════════╝
+<div align="center">
+<a href="https://www.linkedin.com/in/aaimee-gogoi-075445322/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/ime_meee_ime?stkn=Y3FzeXk5dGJvcmlh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="aaimeegogoi8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 ---
 
-### 🔗 Let's Connect!
+<div align="center">
 
-- 🌐 [GitHub](https://github.com/AAIMEE-GOGOI)
-- 💼 [LinkedIn:(https://www.linkedin.com/in/aaimee-gogoi-075445322/?trk=opento_sprofile_details)  
-- 📬 Email: aaimeegogoi8@gmail.com
+🎮 **THANK YOU FOR PLAYING!**
 
----
+✨ *You reached the end of my profile.*
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+**GAME STATUS: ONLINE** 🟢
+
+</div>
