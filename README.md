@@ -135,21 +135,6 @@ Analyzing Spotify artist and music data to explore popularity, trends and artist
 
 ---
 
-# 🏅 PERSONAL ACHIEVEMENTS
-
-### 🏆 Dr. Banikanta Kakati Award
-
-Higher Secondary academic achievement awarded under the **Pragyan Bharati Scheme, Government of Assam**.
-
-📄 [VIEW ACHIEVEMENT →](Dr-Banikanta-Kakati-Award-Assam-Gov.pdf)
-
-### 💃 Dance — NSQF Level 3
-
-**Grade: A-**
-
-📄 [VIEW CERTIFICATE →](Dance_NSQF_Level_3_Certificate.pdf)
-
----
 
 # 📜 CERTIFICATIONS
 
@@ -158,29 +143,46 @@ Higher Secondary academic achievement awarded under the **Pragyan Bharati Scheme
 - **Machine Learning with Python**
 - **Data Science with Python**
 
-📄 [VIEW CERTIFICATES →](Machine_Learning_with_python.pdf)
-📄 [VIEW CERTIFICATES →](Python_For_Data_Science.pdf)
+📄 [VIEW CERTIFICATES →](https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Machine_Learning_with_python.pdf)
+📄 [VIEW CERTIFICATES →](https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Python_For_Data_Science.pdf)
 
 
 ### 🎓 IIT Guwahati × Coursera
 
 - **Machine Learning**
 
-📄 [VIEW CERTIFICATE →](Machine_Learning_Certificate.pdf)
+📄 [VIEW CERTIFICATE →](https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Machine_Learning_Certificate.pdf)
 
 ### 🔵 Google
 
 - **Generative AI**
 
-📄 [VIEW CERTIFICATE →](Generative_AI_Certificate.pdf)
+📄 [VIEW CERTIFICATE →](https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Generative_AI_Certificate.pdf)
 
 ### 🟣 IBM
 
 - **Data Literacy**
 
-📄 [VIEW CERTIFICATE →](Data_Literacy_Certificate.pdf)
+📄 [VIEW CERTIFICATE →](https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Data_Literacy_Certificate.pdf)
 
 ---
+
+# 🏅 PERSONAL ACHIEVEMENTS
+
+### 🏆 Dr. Banikanta Kakati Award
+
+Higher Secondary academic achievement awarded under the **Pragyan Bharati Scheme, Government of Assam**.
+
+📄 [VIEW ACHIEVEMENT →](https://github.com/AAIMEE-GOGOI/PERSONAL_ACHIEVEMENTS/blob/main/Dr-Banikanta-Kakati-Award-Assam-Gov.pdf)
+
+### 💃 Dance — NSQF Level 3
+
+**Grade: A-**
+
+📄 [VIEW CERTIFICATE →](https://github.com/AAIMEE-GOGOI/PERSONAL_ACHIEVEMENTS)
+
+---
+
 
 # 🌱 CURRENTLY LEARNING
 
