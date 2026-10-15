@@ -211,9 +211,6 @@ Currently focusing on strengthening my practical skills and building more real-w
 ---
 
 # 💌 CONNECT WITH ME
-
-# 💌 CONNECT WITH ME
-
 <p align="center">
   <!-- Resume Badge -->
   <a href="https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Resume.pdf" target="_blank">
