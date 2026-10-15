@@ -211,17 +211,19 @@ Currently focusing on strengthening my practical skills and building more real-w
 ---
 
 # 💌 CONNECT WITH ME
+
 <p align="center">
   <!-- Resume Badge -->
-  <a href="https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/AAIMEE-GOGOI/CERTIFICATES/blob/main/IIT_Guwahati_R%C3%A9sum%C3%A9%20(2).pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-green?style=for-the-badge&logo=adobeacrobatreader" width="140"/>
   </a>
-  
+  <br><br>
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/aaimee-gogoi-075445322" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </p>
+
 
 <p align="center">
 
