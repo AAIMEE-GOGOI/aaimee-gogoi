@@ -213,8 +213,13 @@ Currently focusing on strengthening my practical skills and building more real-w
 ---
 
 # 💌 CONNECT WITH ME
-
 <p align="center">
+  <!-- Portfolio Button -->
+  <a href="https://aaimee-gogoi.github.io/PORTFOLIOO/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=google-chrome" width="140"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Resume Button -->
   <a href="https://github.com/AAIMEE-GOGOI/RESUME/blob/main/IIT_Guwahati_R%C3%A9sum%C3%A9%20(2).pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-green?style=for-the-badge&logo=adobeacrobatreader" width="140"/>
   </a>
